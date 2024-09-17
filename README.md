@@ -2,27 +2,15 @@
 
 
 
-Soy Kamila, una apasionada Ingeniera de Sistemas con experiencia en desarrollo de software, administración de bases de datos y análisis de sistemas. Me encanta resolver problemas complejos y trabajar en proyectos innovadores que tienen un impacto real.
+Soy Kamila, una estudiante de Ingeniera de Sistemas con experiencia basica en desarrollo de software, gestiónde proyectos, analisis de datos, administración de bases de datos, redes y sistemas operativos. Me encanta resolver problemas, poder estar en constante aprendizaje y dar lo mejor de mi para un buen desempeño de mi roll en cada proyecto.
 
 Habilidades Técnicas
 Lenguajes de Programación: Java, Python, JavaScript, SQL
-Desarrollo Web: HTML, CSS, React, Angular
-Bases de Datos: MySQL, PostgreSQL, MongoDB
-Herramientas y Tecnologías: Git, Docker, Kubernetes
+Desarrollo Web: HTML, CSS, React, 
+Bases de Datos: MySQL, MongoDB
+Herramientas y Tecnologías: Git
 Metodologías: Agile, Scrum
-Proyectos Destacados
-Sistema de Gestión de Inventarios
 
-Desarrollé una aplicación web completa para la gestión de inventarios utilizando Java y Spring Boot en el backend y React en el frontend.
-Implementé funciones avanzadas como seguimiento en tiempo real y generación de reportes.
-Plataforma de E-learning
-
-Diseñé y desarrollé una plataforma de e-learning utilizando Python y Django.
-Integré servicios de terceros para videoconferencias y creé un sistema de recomendación de cursos.
-Análisis de Datos para Ventas
-
-Realicé un análisis exhaustivo de datos de ventas utilizando Python y bibliotecas como Pandas y Matplotlib.
-Desarrollé dashboards interactivos con Tableau para visualizar las tendencias de ventas y mejorar la toma de decisiones.
 <!--
 **kamilapineda/kamilapineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
