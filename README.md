@@ -2,7 +2,7 @@
 
 
 
-Soy Kamila, una estudiante de Ingeniera de Sistemas con experiencia basica en desarrollo de software, gestiónde proyectos, analisis de datos, administración de bases de datos, redes y sistemas operativos. Me encanta resolver problemas, poder estar en constante aprendizaje y dar lo mejor de mi para un buen desempeño de mi roll en cada proyecto.
+Soy Kamila, una estudiante de Ingeniera de Sistemas con experiencia basica en desarrollo de software, gestión de proyectos, analisis de datos, administración de bases de datos, redes y sistemas operativos. Me encanta resolver problemas, poder estar en constante aprendizaje y dar lo mejor de mi para un buen desempeño de mi roll en cada proyecto.
 
 Habilidades Técnicas
 Lenguajes de Programación: Java, Python, JavaScript, SQL
